@@ -1,0 +1,25 @@
+{
+  "name": "multichoice-game-firebase",
+  "version": "0.1.0",
+  "description": "A multiple choice game built on Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwaiyang/multichoice-game-firebase.git"
+  },
+  "keywords": [
+    "firebase",
+    "redux",
+    "react",
+    "react-router"
+  ],
+  "author": "erwaiyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erwaiyang/multichoice-game-firebase/issues"
+  },
+  "homepage": "https://github.com/erwaiyang/multichoice-game-firebase#readme"
+}
